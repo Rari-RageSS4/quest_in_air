@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915645629444",
+    "project_id": "quest-in-air",
+    "storage_bucket": "quest-in-air.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915645629444:android:f97395613a2e47b378e151",
+        "android_client_info": {
+          "package_name": "com.pachari.quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-eXXvB1FS2QWY3UucS-3p-W1PjPzPIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
